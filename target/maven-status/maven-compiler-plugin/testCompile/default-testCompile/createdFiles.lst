@@ -1,0 +1,3 @@
+com\bsandhu\tests\drivers\TradeBlotterDriver.class
+com\bsandhu\tests\drivers\TradeTicketDriver.class
+com\bsandhu\tests\acceptance\TradeEntryAcceptanceTest.class
